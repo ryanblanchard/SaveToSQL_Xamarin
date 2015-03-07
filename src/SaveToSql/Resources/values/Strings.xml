@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">Save To Sql</string>
+	<string name="lable_date">Date</string>
+
+	<string name="lable_desc">Image Description</string>
+	<string name="lable_image">Photo</string>
+	<string name="lable_lat">Latitude</string>
+	<string name="lable_long">Longitude</string>
+	<string name="lable_processed">Processed</string>
+
+	<string name="button_camera">Use Camera</string>
+	<string name="button_save">Save Image</string>
+
+	</resources>

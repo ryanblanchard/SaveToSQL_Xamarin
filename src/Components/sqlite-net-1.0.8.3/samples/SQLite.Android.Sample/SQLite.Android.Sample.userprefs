@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="SQLite.Android.Sample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AnotherDevuice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\SaveToSql\MainActivity.cs">
+    <Files>
+      <File FileName="MainActivity.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\SaveToSql\MainActivity.cs" Line="5" Column="5" />
+      <File FileName="..\..\..\..\SaveToSql\Data\BPitImage.cs" Line="14" Column="14" />
+      <File FileName="..\..\..\..\SaveToSql\Resources\values\Strings.xml" Line="27" Column="27" />
+      <File FileName="..\..\..\..\SaveToSql\BitmapHelpers.cs" Line="3" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SaveToSql" expanded="True">
+            <Node name="Data" expanded="True" />
+            <Node name="MainActivity.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="..\..\..\..\..\..\PhotoDemo\PhotoDemo\PhotoDemo\MainActivity.cs" line="75" offsetX="347" offsetY="1184" expression="PhotoDemo.App" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
