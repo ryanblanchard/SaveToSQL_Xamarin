@@ -83,6 +83,9 @@ namespace SaveToSql
 			// aapt resource value: 0x7f050005
 			public const int imageView1 = 2131034117;
 			
+			// aapt resource value: 0x7f05000c
+			public const int textMessage = 2131034124;
+			
 			// aapt resource value: 0x7f050000
 			public const int textView1 = 2131034112;
 			
