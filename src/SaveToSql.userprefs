@@ -4,15 +4,27 @@
     <Files>
       <File FileName="Components\sqlite-net-1.0.8.3\samples\SQLite.Android.Sample\MainActivity.cs" Line="1" Column="1" />
       <File FileName="SaveToSql\MainActivity.cs" Line="1" Column="1" />
-      <File FileName="SaveToSql\Data\BPitImage.cs" Line="1" Column="1" />
       <File FileName="SaveToSql\Resources\values\Strings.xml" Line="1" Column="1" />
       <File FileName="SaveToSql\BitmapHelpers.cs" Line="1" Column="1" />
+      <File FileName="SaveToSql\Data\Photo.cs" Line="15" Column="15" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SaveToSql" expanded="True">
+            <Node name="Data" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True" />
+              <Node name="values" expanded="True" />
+            </Node>
+            <Node name="MainActivity.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="C:\_SourceCode\Projects\SaveToSQL_Xamarin\src\SaveToSql\MainActivity.cs" line="83" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="..\..\PhotoDemo\PhotoDemo\PhotoDemo\MainActivity.cs" line="75" offsetX="347" offsetY="1184" expression="PhotoDemo.App" liveUpdate="False" />
